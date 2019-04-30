@@ -3,7 +3,7 @@
 using namespace std;
  
 int main(){
-	cout<<"Hello World and Utrecht!" << endl;
+	cout<<"Hello World and Eindhoven!" << endl;
 
 	return 0;
 }
